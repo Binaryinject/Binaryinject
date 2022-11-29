@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Binaryinject
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning unity, rust
+- 🌱 I’m currently learning Unity DOTS, Rust bevy engine
 - 💞️ I’m looking to collaborate on game art
 - 📫 How to reach me : qq274089056
 
